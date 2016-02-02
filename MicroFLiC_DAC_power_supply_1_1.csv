@@ -1,0 +1,21 @@
+Reference, Quantity, Value, Footprint, Datasheet, Part Number, Manufacturer, Package, Supplier, Order Code, Alt. Supplier, Alt. Order Code, Note
+C1 C10 C16 C17 C18 C2 C3 C4 C5 C6 C7 C8 C9 ,13,4u7/25V,Capacitors_SMD:C_0805,,GRM21BR61E475MA12L,Murata,0805,Farnell,2362111,Mouser,81-GRM21BR61E475MA2L,4μ7/25V X5R 0805 ceramic capacitor
+C11 C12 C13 C14 C15 ,5,10n,Capacitors_SMD:C_0805,,MCU0805R103KCT,Multicomp,0805,Farnell,9306352,,,Optional 10 nF X7R ceramic capacitor
+C19 C20 ,2,1u/50V,Capacitors_SMD:C_0805,,GRM219R61H105KA73D,Murata,0805,Farnell,1845750,Mouser,81-GRM219R61H105KA3D,1μ/50V X5R 0805 ceramic capacitor
+C21 C22 C23 ,3,10u/10V,Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Reflow,,TAJA106K010RNJ,AVX,case A,Farnell,197130,Mouser,581-TAJA106K010,10μF/10V/3Ω ESR tantalum capacitor
+C24 C25 ,2,1u/25V,Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Reflow,,TRJA105K025RRJ,AVX,case A,Farnell,1672443,,,1μ/25V/6.6Ω ESR tantalum capacitor
+D1 D2 D3 ,3,TDZ10J,jakub:SOD-323_Zener,,TDZ10J,NXP Semiconductors,SOD-323,Farnell,2069495,Mouser,771-TDZ10J115,10V Zener diode
+D4 D5 ,2,TDZ27J,jakub:SOD-323_Zener,,TDZ27J,NXP Semiconductors,SOD-323,Farnell,2069505,Mouser,771-TDZ27J115,27V Zener diode
+DC1 DC2 DC3 ,3,NML1209SC,jakub:MurataNML,,NML1209SC,Murata,SIP-4,Farnell,1021524,Mouser,580-NML1209SC,12V in 9V out 2W DC-DC converter
+DC4 DC5 ,2,NMG1224SC,jakub:MurataNMG,,NMG1224SC,Murata,SIP-7,Farnell,2366476,Mouser,81-NMG1224SC,12V in 24V out 2W DC-DC converter
+L1 L2 L3 L4 L5 ,5,10uH,jakub:murata8200coil,,7440329100,Wurth Elektronik,1210,Farnell,2082513,Mouser,710-7440329100,10μH/0.45A SMD coil
+L10 L6 L7 L8 L9 ,5,47uH,jakub:murata8200coil,,82473C,Murata,1210,Farnell,2112805,Mouser,580-82473C,47μH/0.25A SMD coil
+P1 ,1,Socket_1x2,jakub:ESQ-102-33-G-S,,ESQ-102-33-G-S,Samtec,SIL-2,Farnell,1927389,,,1x2 ESQ series elevated socket strip
+P2 ,1,Header_1x2,Pin_Headers:Pin_Header_Straight_1x02,,M20-9990245,Harwin,SIL-2,Farnell,1022245,Mouser,855-M20-9990245,1x2 header strip
+P3 ,1,Socket_2x4,jakub:ESQ-104-33-G-D,,ESQ-104-33-G-D,Samtec,DIL-8,Farnell,1929797,,,2x4 ESQ series elevated socket strip
+R1 R2 R3 R4 ,4,150,Resistors_SMD:R_0805,,MCWR08X1500FTL,Multicomp,0805,Farnell,2447574,,,150Ω/1% 0805 resistor
+R5 R6 ,2,750,Resistors_SMD:R_0805,,MCMR08X7500FTL,Multicomp,0805,Farnell,2073839,,,750Ω/1% 0805 resistor
+R7 R8 ,2,2k1,Resistors_SMD:R_0805,,CRCW08052K10FKEA,Vishay Draloric,0805,Farnell,2138945,Mouser,71-CRCW0805-2.1K-E3,2.1kΩ/1% 0805 resistor
+U1 ,1,AP1117E50,SMD_Packages:SOT-223,,AP1117E50G-13,Diodes,SOT-223,Farnell,1825292,Mouser,621-AP1117E50G-13,5V linear voltage regulator
+U2 U3 ,2,AP1117,SMD_Packages:SOT-223,,AP1117EG-13,Diodes,SOT-223,Farnell,1825293,Mouser,621-AP1117EG-13,Adjustable linear voltage regulator
+U4 U5 ,2,LM317,SMD_Packages:SOT-223,,LM317DCY,Texas Instruments,SOT-223,Farnell,2112605,Mouser,595-LM317DCY,Adjustable linear voltage regulator
