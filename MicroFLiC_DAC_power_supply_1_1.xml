@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>/home/jakub/KiCAD/MicroFLiC_DAC_power_supply_1_1/MicroFLiC_DAC_power_supply_1_1.sch</source>
-    <date>Tue 02 Feb 2016 19:54:00 GMT</date>
+    <date>Wed 03 Feb 2016 11:56:05 GMT</date>
     <tool>Eeschema 4.0.1-3.201512221402+6198~38~ubuntu14.04.1-stable</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -45,6 +45,8 @@
         <field name="Package">0805</field>
         <field name="Supplier">Farnell</field>
         <field name="Order Code">2447574</field>
+        <field name="Alt. Supplier">Mouser</field>
+        <field name="Alt. Order Code">71-TNPW0805150RFEEA</field>
         <field name="Note">150Ω/1% 0805 resistor</field>
       </fields>
       <libsource lib="device" part="R"/>
@@ -94,6 +96,8 @@
         <field name="Package">0805</field>
         <field name="Supplier">Farnell</field>
         <field name="Order Code">9306352</field>
+        <field name="Alt. Supplier">Mouser</field>
+        <field name="Alt. Order Code">80-C0805C103K5R</field>
         <field name="Note">Optional 10 nF X7R ceramic capacitor</field>
       </fields>
       <libsource lib="device" part="C"/>
@@ -211,6 +215,8 @@
         <field name="Package">SIL-2</field>
         <field name="Supplier">Farnell</field>
         <field name="Order Code">1927389</field>
+        <field name="Alt. Supplier">Samtec</field>
+        <field name="Alt. Order Code">ESQ-102-33-G-S</field>
         <field name="Note">1x2 ESQ series elevated socket strip</field>
       </fields>
       <libsource lib="conn" part="CONN_01X02"/>
@@ -243,6 +249,8 @@
         <field name="Package">DIL-8</field>
         <field name="Supplier">Farnell</field>
         <field name="Order Code">1929797</field>
+        <field name="Alt. Supplier">Samtec</field>
+        <field name="Alt. Order Code">ESQ-104-33-G-D</field>
         <field name="Note">2x4 ESQ series elevated socket strip</field>
       </fields>
       <libsource lib="conn" part="CONN_02X04"/>
@@ -428,6 +436,8 @@
         <field name="Package">0805</field>
         <field name="Supplier">Farnell</field>
         <field name="Order Code">2073839</field>
+        <field name="Alt. Supplier">Mouser</field>
+        <field name="Alt. Order Code">603-RT0805FRE07750RL</field>
         <field name="Note">750Ω/1% 0805 resistor</field>
       </fields>
       <libsource lib="device" part="R"/>
@@ -442,6 +452,8 @@
         <field name="Manufacturer">Multicomp</field>
         <field name="Supplier">Farnell</field>
         <field name="Order Code">2073839</field>
+        <field name="Alt. Supplier">Mouser</field>
+        <field name="Alt. Order Code">603-RT0805FRE07750RL</field>
         <field name="Note">750Ω/1% 0805 resistor</field>
       </fields>
       <libsource lib="device" part="R"/>
@@ -550,7 +562,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>56B0ACA1</tstamp>
     </comp>
-    <comp ref="C21">
+    <comp ref="C25">
       <value>10u/10V</value>
       <footprint>Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Reflow</footprint>
       <fields>
@@ -567,7 +579,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>56B0E125</tstamp>
     </comp>
-    <comp ref="C24">
+    <comp ref="C28">
       <value>1u/25V</value>
       <footprint>Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Reflow</footprint>
       <fields>
@@ -576,6 +588,8 @@
         <field name="Package">case A</field>
         <field name="Supplier">Farnell</field>
         <field name="Order Code">1672443</field>
+        <field name="Alt. Supplier">Mouser</field>
+        <field name="Alt. Order Code">74-TMCMA1E105MTRF</field>
         <field name="Note">1μ/25V/6.6Ω ESR tantalum capacitor</field>
       </fields>
       <libsource lib="device" part="CP"/>
@@ -710,6 +724,8 @@
         <field name="Package">0805</field>
         <field name="Supplier">Farnell</field>
         <field name="Order Code">9306352</field>
+        <field name="Alt. Supplier">Mouser</field>
+        <field name="Alt. Order Code">80-C0805C103K5R</field>
         <field name="Note">Optional 10 nF X7R ceramic capacitor</field>
       </fields>
       <libsource lib="device" part="C"/>
@@ -725,6 +741,8 @@
         <field name="Package">0805</field>
         <field name="Supplier">Farnell</field>
         <field name="Order Code">9306352</field>
+        <field name="Alt. Supplier">Mouser</field>
+        <field name="Alt. Order Code">80-C0805C103K5R</field>
         <field name="Note">Optional 10 nF X7R ceramic capacitor</field>
       </fields>
       <libsource lib="device" part="C"/>
@@ -740,6 +758,8 @@
         <field name="Package">0805</field>
         <field name="Supplier">Farnell</field>
         <field name="Order Code">9306352</field>
+        <field name="Alt. Supplier">Mouser</field>
+        <field name="Alt. Order Code">80-C0805C103K5R</field>
         <field name="Note">Optional 10 nF X7R ceramic capacitor</field>
       </fields>
       <libsource lib="device" part="C"/>
@@ -755,6 +775,8 @@
         <field name="Package">0805</field>
         <field name="Supplier">Farnell</field>
         <field name="Order Code">9306352</field>
+        <field name="Alt. Supplier">Mouser</field>
+        <field name="Alt. Order Code">80-C0805C103K5R</field>
         <field name="Note">Optional 10 nF X7R ceramic capacitor</field>
       </fields>
       <libsource lib="device" part="C"/>
@@ -906,6 +928,8 @@
         <field name="Package">0805</field>
         <field name="Supplier">Farnell</field>
         <field name="Order Code">2447574</field>
+        <field name="Alt. Supplier">Mouser</field>
+        <field name="Alt. Order Code">71-TNPW0805150RFEEA</field>
         <field name="Note">150Ω/1% 0805 resistor</field>
       </fields>
       <libsource lib="device" part="R"/>
@@ -921,6 +945,8 @@
         <field name="Package">0805</field>
         <field name="Supplier">Farnell</field>
         <field name="Order Code">2447574</field>
+        <field name="Alt. Supplier">Mouser</field>
+        <field name="Alt. Order Code">71-TNPW0805150RFEEA</field>
         <field name="Note">150Ω/1% 0805 resistor</field>
       </fields>
       <libsource lib="device" part="R"/>
@@ -936,6 +962,8 @@
         <field name="Package">0805</field>
         <field name="Supplier">Farnell</field>
         <field name="Order Code">2447574</field>
+        <field name="Alt. Supplier">Mouser</field>
+        <field name="Alt. Order Code">71-TNPW0805150RFEEA</field>
         <field name="Note">150Ω/1% 0805 resistor</field>
       </fields>
       <libsource lib="device" part="R"/>
@@ -976,7 +1004,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>56B29074</tstamp>
     </comp>
-    <comp ref="C22">
+    <comp ref="C26">
       <value>10u/10V</value>
       <footprint>Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Reflow</footprint>
       <fields>
@@ -993,7 +1021,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>56B29B21</tstamp>
     </comp>
-    <comp ref="C23">
+    <comp ref="C27">
       <value>10u/10V</value>
       <footprint>Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Reflow</footprint>
       <fields>
@@ -1010,7 +1038,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>56B29C43</tstamp>
     </comp>
-    <comp ref="C25">
+    <comp ref="C29">
       <value>1u/25V</value>
       <footprint>Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Reflow</footprint>
       <fields>
@@ -1019,11 +1047,149 @@
         <field name="Package">case A</field>
         <field name="Supplier">Farnell</field>
         <field name="Order Code">1672443</field>
+        <field name="Alt. Supplier">Mouser</field>
+        <field name="Alt. Order Code">74-TMCMA1E105MTRF</field>
         <field name="Note">1μ/25V/6.6Ω ESR tantalum capacitor</field>
       </fields>
       <libsource lib="device" part="CP"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>56B2A11F</tstamp>
+    </comp>
+    <comp ref="C24">
+      <value>10u/6.3V</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <fields>
+        <field name="Part Number">0805X106K6R3CT</field>
+        <field name="Manufacturer">Walsin</field>
+        <field name="Package">0805</field>
+        <field name="Supplier">Farnell</field>
+        <field name="Order Code">2497051</field>
+        <field name="Alt. Supplier">Mouser</field>
+        <field name="Alt. Order Code">581-08056D106MAT2A</field>
+        <field name="Note">10μ/6.3V X5R 0805 ceramic capacitor</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56B20FCA</tstamp>
+    </comp>
+    <comp ref="C23">
+      <value>10u/6.3V</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <fields>
+        <field name="Part Number">0805X106K6R3CT</field>
+        <field name="Manufacturer">Walsin</field>
+        <field name="Package">0805</field>
+        <field name="Supplier">Farnell</field>
+        <field name="Order Code">2497051</field>
+        <field name="Alt. Supplier">Mouser</field>
+        <field name="Alt. Order Code">581-08056D106MAT2A</field>
+        <field name="Note">10μ/6.3V X5R 0805 ceramic capacitor</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56B225F0</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>1N4148</value>
+      <footprint>Diodes_SMD:SOD-323</footprint>
+      <fields>
+        <field name="Part Number">1N4148WS</field>
+        <field name="Manufacturer">Multicomp</field>
+        <field name="Package">SOD-323</field>
+        <field name="Supplier">Farnell</field>
+        <field name="Order Code">1466524</field>
+        <field name="Alt. Supplier">Mouser</field>
+        <field name="Alt. Order Code">512-1N4148WS</field>
+        <field name="Note">General small signal SOD-323 diode</field>
+      </fields>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56B22B7B</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>1N4148</value>
+      <footprint>Diodes_SMD:SOD-323</footprint>
+      <fields>
+        <field name="Part Number">1N4148WS</field>
+        <field name="Manufacturer">Multicomp</field>
+        <field name="Package">SOD-323</field>
+        <field name="Supplier">Farnell</field>
+        <field name="Order Code">1466524</field>
+        <field name="Alt. Supplier">Mouser</field>
+        <field name="Alt. Order Code">512-1N4148WS</field>
+        <field name="Note">General small signal SOD-323 diode</field>
+      </fields>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56B233A5</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>1N4148</value>
+      <footprint>Diodes_SMD:SOD-323</footprint>
+      <fields>
+        <field name="Part Number">1N4148WS</field>
+        <field name="Manufacturer">Multicomp</field>
+        <field name="Package">SOD-323</field>
+        <field name="Supplier">Farnell</field>
+        <field name="Order Code">1466524</field>
+        <field name="Alt. Supplier">Mouser</field>
+        <field name="Alt. Order Code">512-1N4148WS</field>
+        <field name="Note">General small signal SOD-323 diode</field>
+      </fields>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56B234C0</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>1N4148</value>
+      <footprint>Diodes_SMD:SOD-323</footprint>
+      <fields>
+        <field name="Part Number">1N4148WS</field>
+        <field name="Manufacturer">Multicomp</field>
+        <field name="Package">SOD-323</field>
+        <field name="Supplier">Farnell</field>
+        <field name="Order Code">1466524</field>
+        <field name="Alt. Supplier">Mouser</field>
+        <field name="Alt. Order Code">512-1N4148WS</field>
+        <field name="Note">General small signal SOD-323 diode</field>
+      </fields>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56B235F2</tstamp>
+    </comp>
+    <comp ref="C22">
+      <value>10u/6.3V</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <fields>
+        <field name="Part Number">0805X106K6R3CT</field>
+        <field name="Manufacturer">Walsin</field>
+        <field name="Package">0805</field>
+        <field name="Supplier">Farnell</field>
+        <field name="Order Code">2497051</field>
+        <field name="Alt. Supplier">Mouser</field>
+        <field name="Alt. Order Code">581-08056D106MAT2A</field>
+        <field name="Note">10μ/6.3V X5R 0805 ceramic capacitor</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56B2443B</tstamp>
+    </comp>
+    <comp ref="C21">
+      <value>10u/6.3V</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <fields>
+        <field name="Part Number">0805X106K6R3CT</field>
+        <field name="Manufacturer">Walsin</field>
+        <field name="Package">0805</field>
+        <field name="Supplier">Farnell</field>
+        <field name="Order Code">2497051</field>
+        <field name="Alt. Supplier">Mouser</field>
+        <field name="Alt. Order Code">581-08056D106MAT2A</field>
+        <field name="Note">10μ/6.3V X5R 0805 ceramic capacitor</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56B25280</tstamp>
     </comp>
   </components>
   <libparts>
@@ -1151,6 +1317,24 @@
         <pin num="2" name="~" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="device" part="D">
+      <description>Diode</description>
+      <footprints>
+        <fp>Diode_*</fp>
+        <fp>D-Pak_TO252AA</fp>
+        <fp>*SingleDiode</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
     <libpart lib="device" part="INDUCTOR">
       <fields>
         <field name="Reference">L</field>
@@ -1243,216 +1427,232 @@
     <library logical="device">
       <uri>/usr/share/kicad/library/device.lib</uri>
     </library>
-    <library logical="jakub">
-      <uri>/home/jakub/KiCAD/share/library/contrib/jakub/jakub.lib</uri>
+    <library logical="conn">
+      <uri>/usr/share/kicad/library/conn.lib</uri>
     </library>
     <library logical="regul">
       <uri>/usr/share/kicad/library/regul.lib</uri>
     </library>
-    <library logical="conn">
-      <uri>/usr/share/kicad/library/conn.lib</uri>
+    <library logical="jakub">
+      <uri>/home/jakub/KiCAD/share/library/contrib/jakub/jakub.lib</uri>
     </library>
   </libraries>
   <nets>
-    <net code="1" name="GND">
-      <node ref="C7" pin="2"/>
-      <node ref="C11" pin="2"/>
-      <node ref="P1" pin="1"/>
-      <node ref="C1" pin="2"/>
-      <node ref="DC4" pin="2"/>
-      <node ref="P2" pin="2"/>
-      <node ref="DC1" pin="1"/>
-      <node ref="DC3" pin="1"/>
-      <node ref="DC5" pin="2"/>
-      <node ref="C12" pin="2"/>
-      <node ref="C14" pin="2"/>
-      <node ref="C9" pin="2"/>
-      <node ref="C15" pin="2"/>
-      <node ref="C13" pin="2"/>
-      <node ref="C8" pin="2"/>
-      <node ref="C3" pin="2"/>
-      <node ref="C2" pin="2"/>
-      <node ref="C10" pin="2"/>
-      <node ref="DC2" pin="1"/>
-      <node ref="C6" pin="2"/>
-      <node ref="C5" pin="2"/>
-      <node ref="C4" pin="2"/>
-    </net>
-    <net code="2" name="+12V">
-      <node ref="C4" pin="1"/>
+    <net code="1" name="+12V">
       <node ref="C2" pin="1"/>
+      <node ref="C1" pin="1"/>
       <node ref="L1" pin="1"/>
+      <node ref="P1" pin="1"/>
+      <node ref="P2" pin="1"/>
+      <node ref="C5" pin="1"/>
+      <node ref="C4" pin="1"/>
       <node ref="C3" pin="1"/>
       <node ref="L5" pin="1"/>
-      <node ref="C1" pin="1"/>
       <node ref="L4" pin="1"/>
-      <node ref="P2" pin="1"/>
-      <node ref="P1" pin="2"/>
       <node ref="L3" pin="1"/>
-      <node ref="C5" pin="1"/>
       <node ref="L2" pin="1"/>
     </net>
-    <net code="3" name="/+12V_C">
-      <node ref="DC3" pin="2"/>
-      <node ref="C8" pin="1"/>
-      <node ref="L3" pin="2"/>
+    <net code="2" name="GND">
+      <node ref="C4" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="C10" pin="2"/>
+      <node ref="DC2" pin="1"/>
+      <node ref="C12" pin="2"/>
+      <node ref="DC4" pin="2"/>
+      <node ref="DC5" pin="2"/>
+      <node ref="P1" pin="2"/>
+      <node ref="DC3" pin="1"/>
+      <node ref="P2" pin="2"/>
+      <node ref="C2" pin="2"/>
+      <node ref="C11" pin="2"/>
+      <node ref="C15" pin="2"/>
+      <node ref="C14" pin="2"/>
+      <node ref="C13" pin="2"/>
+      <node ref="C9" pin="2"/>
+      <node ref="C8" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="C7" pin="2"/>
+      <node ref="C6" pin="2"/>
+      <node ref="DC1" pin="1"/>
+      <node ref="C5" pin="2"/>
     </net>
-    <net code="4" name="/+12V_B">
+    <net code="3" name="/+12V_B">
       <node ref="C7" pin="1"/>
       <node ref="L2" pin="2"/>
       <node ref="DC2" pin="2"/>
     </net>
-    <net code="5" name="/+24_ID">
-      <node ref="C19" pin="1"/>
-      <node ref="U4" pin="3"/>
-      <node ref="D4" pin="1"/>
-      <node ref="L9" pin="2"/>
+    <net code="4" name="/+12V_C">
+      <node ref="C8" pin="1"/>
+      <node ref="DC3" pin="2"/>
+      <node ref="L3" pin="2"/>
     </net>
-    <net code="6" name="/+24_IE">
-      <node ref="C20" pin="1"/>
-      <node ref="L10" pin="2"/>
-      <node ref="D5" pin="1"/>
-      <node ref="U5" pin="3"/>
+    <net code="5" name="/+12V_D">
+      <node ref="L4" pin="2"/>
+      <node ref="DC4" pin="1"/>
+      <node ref="C9" pin="1"/>
     </net>
-    <net code="7" name="/+5V">
-      <node ref="U1" pin="2"/>
-      <node ref="C21" pin="1"/>
-      <node ref="P3" pin="2"/>
-    </net>
-    <net code="8" name="/+12V_E">
-      <node ref="DC5" pin="1"/>
+    <net code="6" name="/+12V_E">
       <node ref="L5" pin="2"/>
       <node ref="C10" pin="1"/>
+      <node ref="DC5" pin="1"/>
     </net>
-    <net code="9" name="/FB_D">
-      <node ref="U4" pin="1"/>
-      <node ref="R3" pin="1"/>
-      <node ref="R7" pin="2"/>
+    <net code="7" name="/+12V_A">
+      <node ref="C6" pin="1"/>
+      <node ref="DC1" pin="2"/>
+      <node ref="L1" pin="2"/>
+    </net>
+    <net code="8" name="/+24_ID">
+      <node ref="L9" pin="2"/>
+      <node ref="D4" pin="1"/>
+      <node ref="U4" pin="3"/>
+      <node ref="C19" pin="1"/>
+      <node ref="D6" pin="1"/>
+    </net>
+    <net code="9" name="/+24_IE">
+      <node ref="L10" pin="2"/>
+      <node ref="D7" pin="1"/>
+      <node ref="U5" pin="3"/>
+      <node ref="D5" pin="1"/>
+      <node ref="C20" pin="1"/>
     </net>
     <net code="10" name="/+24_E">
       <node ref="DC5" pin="6"/>
       <node ref="L10" pin="1"/>
     </net>
     <net code="11" name="/+9_C">
-      <node ref="DC3" pin="4"/>
       <node ref="L8" pin="1"/>
+      <node ref="DC3" pin="4"/>
     </net>
-    <net code="12" name="/+12V_D">
-      <node ref="DC4" pin="1"/>
-      <node ref="L4" pin="2"/>
-      <node ref="C9" pin="1"/>
+    <net code="12" name="/-7.5V">
+      <node ref="P3" pin="3"/>
+      <node ref="C13" pin="1"/>
+      <node ref="C27" pin="2"/>
+      <node ref="DC3" pin="3"/>
+      <node ref="C18" pin="2"/>
+      <node ref="C22" pin="2"/>
+      <node ref="R2" pin="2"/>
+      <node ref="D3" pin="2"/>
     </net>
     <net code="13" name="/+19V">
-      <node ref="P3" pin="8"/>
+      <node ref="C28" pin="1"/>
+      <node ref="D6" pin="2"/>
+      <node ref="D8" pin="1"/>
       <node ref="R7" pin="1"/>
+      <node ref="P3" pin="8"/>
       <node ref="U4" pin="2"/>
-      <node ref="C24" pin="1"/>
     </net>
     <net code="14" name="/19V_GND">
-      <node ref="C19" pin="2"/>
-      <node ref="D4" pin="2"/>
-      <node ref="P3" pin="6"/>
-      <node ref="DC4" pin="4"/>
-      <node ref="R3" pin="2"/>
+      <node ref="C28" pin="2"/>
       <node ref="U5" pin="2"/>
-      <node ref="C25" pin="1"/>
+      <node ref="D4" pin="2"/>
+      <node ref="C29" pin="1"/>
+      <node ref="P3" pin="6"/>
       <node ref="C14" pin="1"/>
-      <node ref="C24" pin="2"/>
+      <node ref="C19" pin="2"/>
+      <node ref="R3" pin="2"/>
       <node ref="R8" pin="1"/>
+      <node ref="C23" pin="2"/>
+      <node ref="DC4" pin="4"/>
+      <node ref="D7" pin="2"/>
+      <node ref="D9" pin="1"/>
     </net>
     <net code="15" name="/-19V">
-      <node ref="R4" pin="2"/>
-      <node ref="C25" pin="2"/>
       <node ref="DC5" pin="4"/>
       <node ref="C20" pin="2"/>
-      <node ref="C15" pin="1"/>
       <node ref="D5" pin="2"/>
       <node ref="P3" pin="4"/>
+      <node ref="C15" pin="1"/>
+      <node ref="R4" pin="2"/>
+      <node ref="C24" pin="2"/>
+      <node ref="C29" pin="2"/>
     </net>
-    <net code="16" name="/+24_D">
-      <node ref="L9" pin="1"/>
-      <node ref="DC4" pin="6"/>
-    </net>
-    <net code="17" name="/+7.5V">
-      <node ref="U2" pin="2"/>
-      <node ref="R5" pin="1"/>
-      <node ref="P3" pin="7"/>
-      <node ref="C22" pin="1"/>
-    </net>
-    <net code="18" name="/7.5V_GND">
-      <node ref="C12" pin="1"/>
-      <node ref="D2" pin="2"/>
-      <node ref="P3" pin="5"/>
-      <node ref="DC2" pin="3"/>
-      <node ref="U3" pin="2"/>
-      <node ref="C22" pin="2"/>
+    <net code="16" name="/FB_D">
+      <node ref="D8" pin="2"/>
       <node ref="C23" pin="1"/>
-      <node ref="R1" pin="2"/>
-      <node ref="C17" pin="2"/>
-      <node ref="R6" pin="1"/>
+      <node ref="R3" pin="1"/>
+      <node ref="U4" pin="1"/>
+      <node ref="R7" pin="2"/>
     </net>
-    <net code="19" name="/-7.5V">
-      <node ref="C18" pin="2"/>
-      <node ref="R2" pin="2"/>
-      <node ref="P3" pin="3"/>
-      <node ref="D3" pin="2"/>
-      <node ref="C23" pin="2"/>
-      <node ref="DC3" pin="3"/>
-      <node ref="C13" pin="1"/>
-    </net>
-    <net code="20" name="/5V_GND">
-      <node ref="C21" pin="2"/>
-      <node ref="C16" pin="2"/>
-      <node ref="D1" pin="2"/>
-      <node ref="DC1" pin="3"/>
+    <net code="17" name="/5V_GND">
       <node ref="P3" pin="1"/>
+      <node ref="C16" pin="2"/>
       <node ref="C11" pin="1"/>
+      <node ref="D1" pin="2"/>
+      <node ref="C25" pin="2"/>
+      <node ref="DC1" pin="3"/>
       <node ref="U1" pin="1"/>
     </net>
-    <net code="21" name="/+9_IC">
+    <net code="18" name="/FB_C">
+      <node ref="C22" pin="1"/>
+      <node ref="U3" pin="1"/>
+      <node ref="R6" pin="2"/>
+      <node ref="R2" pin="1"/>
+    </net>
+    <net code="19" name="/FB_E">
+      <node ref="R8" pin="2"/>
+      <node ref="C24" pin="1"/>
+      <node ref="U5" pin="1"/>
+      <node ref="D9" pin="2"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="20" name="/+5V">
+      <node ref="C25" pin="1"/>
+      <node ref="U1" pin="2"/>
+      <node ref="P3" pin="2"/>
+    </net>
+    <net code="21" name="/+7.5V">
+      <node ref="C26" pin="1"/>
+      <node ref="P3" pin="7"/>
+      <node ref="U2" pin="2"/>
+      <node ref="R5" pin="1"/>
+    </net>
+    <net code="22" name="/7.5V_GND">
+      <node ref="R6" pin="1"/>
+      <node ref="C17" pin="2"/>
+      <node ref="C12" pin="1"/>
+      <node ref="C26" pin="2"/>
+      <node ref="C27" pin="1"/>
+      <node ref="C21" pin="2"/>
+      <node ref="DC2" pin="3"/>
+      <node ref="D2" pin="2"/>
+      <node ref="U3" pin="2"/>
+      <node ref="R1" pin="2"/>
+      <node ref="P3" pin="5"/>
+    </net>
+    <net code="23" name="/+9_IC">
       <node ref="C18" pin="1"/>
       <node ref="U3" pin="3"/>
-      <node ref="L8" pin="2"/>
       <node ref="D3" pin="1"/>
+      <node ref="L8" pin="2"/>
     </net>
-    <net code="22" name="/+12V_A">
-      <node ref="L1" pin="2"/>
-      <node ref="C6" pin="1"/>
-      <node ref="DC1" pin="2"/>
-    </net>
-    <net code="23" name="/+9_B">
-      <node ref="DC2" pin="4"/>
-      <node ref="L7" pin="1"/>
-    </net>
-    <net code="24" name="/+9_A">
-      <node ref="DC1" pin="4"/>
-      <node ref="L6" pin="1"/>
-    </net>
-    <net code="25" name="/FB_B">
-      <node ref="R5" pin="2"/>
-      <node ref="U2" pin="1"/>
-      <node ref="R1" pin="1"/>
-    </net>
-    <net code="26" name="/+9_IA">
+    <net code="24" name="/+9_IA">
       <node ref="U1" pin="3"/>
       <node ref="L6" pin="2"/>
       <node ref="C16" pin="1"/>
       <node ref="D1" pin="1"/>
     </net>
-    <net code="27" name="/FB_C">
-      <node ref="R2" pin="1"/>
-      <node ref="U3" pin="1"/>
-      <node ref="R6" pin="2"/>
+    <net code="25" name="/FB_B">
+      <node ref="C21" pin="1"/>
+      <node ref="R1" pin="1"/>
+      <node ref="U2" pin="1"/>
+      <node ref="R5" pin="2"/>
     </net>
-    <net code="28" name="/FB_E">
-      <node ref="R8" pin="2"/>
-      <node ref="R4" pin="1"/>
-      <node ref="U5" pin="1"/>
+    <net code="26" name="/+24_D">
+      <node ref="DC4" pin="6"/>
+      <node ref="L9" pin="1"/>
+    </net>
+    <net code="27" name="/+9_A">
+      <node ref="DC1" pin="4"/>
+      <node ref="L6" pin="1"/>
+    </net>
+    <net code="28" name="/+9_B">
+      <node ref="L7" pin="1"/>
+      <node ref="DC2" pin="4"/>
     </net>
     <net code="29" name="/+9_IB">
-      <node ref="L7" pin="2"/>
       <node ref="D2" pin="1"/>
       <node ref="C17" pin="1"/>
+      <node ref="L7" pin="2"/>
       <node ref="U2" pin="3"/>
     </net>
   </nets>
