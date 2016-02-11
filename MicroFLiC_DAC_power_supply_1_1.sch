@@ -249,7 +249,7 @@ F 7 "Farnell" H 2500 1600 60  0001 C CNN "Supplier"
 F 8 "9406352" V 2500 1600 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 2500 1600 60  0001 C CNN "Alt. Supplier"
 F 10 "80-C0805C103K5R" H 2500 1600 60  0001 C CNN "Alt. Order Code"
-F 11 "Optional 10 nF X7R ceramic capacitor" H 2500 1600 60  0001 C CNN "Note"
+F 11 "Optional 10 nF 0603 X7R ceramic capacitor" H 2500 1600 60  0001 C CNN "Note"
 	1    2500 1600
 	0    1    1    0   
 $EndComp
@@ -583,7 +583,7 @@ F 7 "Farnell" H 4700 1300 60  0001 C CNN "Supplier"
 F 8 "2069495" V 4700 1300 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 4700 1300 60  0001 C CNN "Alt. Supplier"
 F 10 "771-TDZ10J115" H 4700 1300 60  0001 C CNN "Alt. Order Code"
-F 11 "10V Zener diode" H 4700 1300 60  0001 C CNN "Note"
+F 11 "10V SOD-323 Zener diode" H 4700 1300 60  0001 C CNN "Note"
 	1    4700 1300
 	0    1    1    0   
 $EndComp
@@ -810,7 +810,7 @@ F 7 "Farnell" H 4700 6150 60  0001 C CNN "Supplier"
 F 8 "2069505" V 4700 6150 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 4700 6150 60  0001 C CNN "Alt. Supplier"
 F 10 "771-TDZ27J115" H 4700 6150 60  0001 C CNN "Alt. Order Code"
-F 11 "27V Zener diode" H 4700 6150 60  0001 C CNN "Note"
+F 11 "27V SOD-323 Zener diode" H 4700 6150 60  0001 C CNN "Note"
 	1    4700 6150
 	0    1    1    0   
 $EndComp
@@ -924,7 +924,7 @@ F 7 "Farnell" H 6100 1300 60  0001 C CNN "Supplier"
 F 8 "197130" H 6100 1300 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 6100 1300 60  0001 C CNN "Alt. Supplier"
 F 10 "581-TAJA106K010" H 6100 1300 60  0001 C CNN "Alt. Order Code"
-F 11 "10μF/10V/3Ω ESR tantalum capacitor" H 6100 1300 60  0001 C CNN "Note"
+F 11 "10μF/10V/3Ω ESR case A tantalum capacitor" H 6100 1300 60  0001 C CNN "Note"
 	1    6100 1300
 	1    0    0    -1  
 $EndComp
@@ -943,7 +943,7 @@ F 7 "Farnell" H 6400 6350 60  0001 C CNN "Supplier"
 F 8 "1672443" H 6400 6350 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 6400 6350 60  0001 C CNN "Alt. Supplier"
 F 10 "74-TMCMA1E105MTRF" H 6400 6350 60  0001 C CNN "Alt. Order Code"
-F 11 "1μ/25V/6.6Ω ESR tantalum capacitor" H 6400 6350 60  0001 C CNN "Note"
+F 11 "1μ/25V/6.6Ω ESR case A tantalum capacitor" H 6400 6350 60  0001 C CNN "Note"
 	1    6400 6350
 	1    0    0    -1  
 $EndComp
@@ -1095,7 +1095,7 @@ F 7 "Farnell" H 2500 3050 60  0001 C CNN "Supplier"
 F 8 "9406352" V 2500 3050 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 2500 3050 60  0001 C CNN "Alt. Supplier"
 F 10 "80-C0805C103K5R" H 2500 3050 60  0001 C CNN "Alt. Order Code"
-F 11 "Optional 10 nF X7R ceramic capacitor" H 2500 3050 60  0001 C CNN "Note"
+F 11 "Optional 10 nF 0603 X7R ceramic capacitor" H 2500 3050 60  0001 C CNN "Note"
 	1    2500 3050
 	0    1    1    0   
 $EndComp
@@ -1114,7 +1114,7 @@ F 7 "Farnell" H 2500 4850 60  0001 C CNN "Supplier"
 F 8 "9406352" V 2500 4850 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 2500 4850 60  0001 C CNN "Alt. Supplier"
 F 10 "80-C0805C103K5R" H 2500 4850 60  0001 C CNN "Alt. Order Code"
-F 11 "Optional 10 nF X7R ceramic capacitor" H 2500 4850 60  0001 C CNN "Note"
+F 11 "Optional 10 nF 0603 X7R ceramic capacitor" H 2500 4850 60  0001 C CNN "Note"
 	1    2500 4850
 	0    1    1    0   
 $EndComp
@@ -1133,7 +1133,7 @@ F 7 "Farnell" H 2500 6450 60  0001 C CNN "Supplier"
 F 8 "9406352" V 2500 6450 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 2500 6450 60  0001 C CNN "Alt. Supplier"
 F 10 "80-C0805C103K5R" H 2500 6450 60  0001 C CNN "Alt. Order Code"
-F 11 "Optional 10 nF X7R ceramic capacitor" H 2500 6450 60  0001 C CNN "Note"
+F 11 "Optional 10 nF 0603 X7R ceramic capacitor" H 2500 6450 60  0001 C CNN "Note"
 	1    2500 6450
 	0    1    1    0   
 $EndComp
@@ -1152,7 +1152,7 @@ F 7 "Farnell" H 2500 8250 60  0001 C CNN "Supplier"
 F 8 "9406352" V 2500 8250 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 2500 8250 60  0001 C CNN "Alt. Supplier"
 F 10 "80-C0805C103K5R" H 2500 8250 60  0001 C CNN "Alt. Order Code"
-F 11 "Optional 10 nF X7R ceramic capacitor" H 2500 8250 60  0001 C CNN "Note"
+F 11 "Optional 10 nF 0603 X7R ceramic capacitor" H 2500 8250 60  0001 C CNN "Note"
 	1    2500 8250
 	0    1    1    0   
 $EndComp
@@ -1247,7 +1247,7 @@ F 7 "Farnell" H 4700 2750 60  0001 C CNN "Supplier"
 F 8 "2069495" V 4700 2750 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 4700 2750 60  0001 C CNN "Alt. Supplier"
 F 10 "771-TDZ10J115" H 4700 2750 60  0001 C CNN "Alt. Order Code"
-F 11 "10V Zener diode" H 4700 2750 60  0001 C CNN "Note"
+F 11 "10V SOD-323 Zener diode" H 4700 2750 60  0001 C CNN "Note"
 	1    4700 2750
 	0    1    1    0   
 $EndComp
@@ -1266,7 +1266,7 @@ F 7 "Farnell" H 4700 4550 60  0001 C CNN "Supplier"
 F 8 "2069495" V 4700 4550 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 4700 4550 60  0001 C CNN "Alt. Supplier"
 F 10 "771-TDZ10J115" H 4700 4550 60  0001 C CNN "Alt. Order Code"
-F 11 "10V Zener diode" H 4700 4550 60  0001 C CNN "Note"
+F 11 "10V SOD-323 Zener diode" H 4700 4550 60  0001 C CNN "Note"
 	1    4700 4550
 	0    1    1    0   
 $EndComp
@@ -1285,7 +1285,7 @@ F 7 "Farnell" H 4700 7950 60  0001 C CNN "Supplier"
 F 8 "2069505" V 4700 7950 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 4700 7950 60  0001 C CNN "Alt. Supplier"
 F 10 "771-TDZ27J115" H 4700 7950 60  0001 C CNN "Alt. Order Code"
-F 11 "27V Zener diode" H 4700 7950 60  0001 C CNN "Note"
+F 11 "27V SOD-323 Zener diode" H 4700 7950 60  0001 C CNN "Note"
 	1    4700 7950
 	0    1    1    0   
 $EndComp
@@ -1418,7 +1418,7 @@ F 7 "Farnell" H 6400 2950 60  0001 C CNN "Supplier"
 F 8 "197130" H 6400 2950 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 6400 2950 60  0001 C CNN "Alt. Supplier"
 F 10 "581-TAJA106K010" H 6400 2950 60  0001 C CNN "Alt. Order Code"
-F 11 "10μF/10V/3Ω ESR tantalum capacitor" H 6400 2950 60  0001 C CNN "Note"
+F 11 "10μF/10V/3Ω ESR case A tantalum capacitor" H 6400 2950 60  0001 C CNN "Note"
 	1    6400 2950
 	1    0    0    -1  
 $EndComp
@@ -1437,7 +1437,7 @@ F 7 "Farnell" H 6400 4750 60  0001 C CNN "Supplier"
 F 8 "197130" H 6400 4750 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 6400 4750 60  0001 C CNN "Alt. Supplier"
 F 10 "581-TAJA106K010" H 6400 4750 60  0001 C CNN "Alt. Order Code"
-F 11 "10μF/10V/3Ω ESR tantalum capacitor" H 6400 4750 60  0001 C CNN "Note"
+F 11 "10μF/10V/3Ω ESR case A tantalum capacitor" H 6400 4750 60  0001 C CNN "Note"
 	1    6400 4750
 	1    0    0    -1  
 $EndComp
@@ -1456,7 +1456,7 @@ F 7 "Farnell" H 6400 8150 60  0001 C CNN "Supplier"
 F 8 "1672443" H 6400 8150 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 6400 8150 60  0001 C CNN "Alt. Supplier"
 F 10 "74-TMCMA1E105MTRF" H 6400 8150 60  0001 C CNN "Alt. Order Code"
-F 11 "1μ/25V/6.6Ω ESR tantalum capacitor" H 6400 8150 60  0001 C CNN "Note"
+F 11 "1μ/25V/6.6Ω ESR case A tantalum capacitor" H 6400 8150 60  0001 C CNN "Note"
 	1    6400 8150
 	1    0    0    -1  
 $EndComp
@@ -1860,7 +1860,7 @@ F 7 "Farnell" H 5400 5500 60  0001 C CNN "Supplier"
 F 8 "1466524" H 5400 5500 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 5400 5500 60  0001 C CNN "Alt. Supplier"
 F 10 "512-1N4148WS" H 5400 5500 60  0001 C CNN "Alt. Order Code"
-F 11 "General small signal SOD-323 diode" H 5400 5500 60  0001 C CNN "Note"
+F 11 "Small signal SOD-323 diode" H 5400 5500 60  0001 C CNN "Note"
 	1    5400 5500
 	1    0    0    -1  
 $EndComp
@@ -1879,7 +1879,7 @@ F 7 "Farnell" H 6100 6050 60  0001 C CNN "Supplier"
 F 8 "1466524" H 6100 6050 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 6100 6050 60  0001 C CNN "Alt. Supplier"
 F 10 "512-1N4148WS" H 6100 6050 60  0001 C CNN "Alt. Order Code"
-F 11 "General small signal SOD-323 diode" H 6100 6050 60  0001 C CNN "Note"
+F 11 "Small signal SOD-323 diode" H 6100 6050 60  0001 C CNN "Note"
 	1    6100 6050
 	0    1    1    0   
 $EndComp
@@ -1898,7 +1898,7 @@ F 7 "Farnell" H 5400 7300 60  0001 C CNN "Supplier"
 F 8 "1466524" H 5400 7300 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 5400 7300 60  0001 C CNN "Alt. Supplier"
 F 10 "512-1N4148WS" H 5400 7300 60  0001 C CNN "Alt. Order Code"
-F 11 "General small signal SOD-323 diode" H 5400 7300 60  0001 C CNN "Note"
+F 11 "Small signal SOD-323 diode" H 5400 7300 60  0001 C CNN "Note"
 	1    5400 7300
 	1    0    0    -1  
 $EndComp
@@ -1917,7 +1917,7 @@ F 7 "Farnell" H 6100 7850 60  0001 C CNN "Supplier"
 F 8 "1466524" H 6100 7850 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 6100 7850 60  0001 C CNN "Alt. Supplier"
 F 10 "512-1N4148WS" H 6100 7850 60  0001 C CNN "Alt. Order Code"
-F 11 "General small signal SOD-323 diode" H 6100 7850 60  0001 C CNN "Note"
+F 11 "Small signal SOD-323 diode" H 6100 7850 60  0001 C CNN "Note"
 	1    6100 7850
 	0    1    1    0   
 $EndComp

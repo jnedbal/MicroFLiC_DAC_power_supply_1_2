@@ -1,12 +1,12 @@
-(kicad_pcb (version 4) (host pcbnew 4.0.1-3.201512221402+6198~38~ubuntu14.04.1-stable)
+(kicad_pcb (version 4) (host pcbnew "(2015-12-10 BZR 6367)-product")
 
   (general
     (links 130)
-    (no_connects 1)
-    (area 99.607 100.025999 150.127 151.957)
+    (no_connects 0)
+    (area 100.025999 100.025999 149.910001 149.910001)
     (thickness 1.6)
     (drawings 38)
-    (tracks 446)
+    (tracks 448)
     (zones 0)
     (modules 69)
     (nets 30)
@@ -14,8 +14,8 @@
 
   (page A4)
   (layers
-    (0 F.Cu signal)
-    (31 B.Cu signal hide)
+    (0 F.Cu signal hide)
+    (31 B.Cu signal)
     (32 B.Adhes user)
     (33 F.Adhes user)
     (34 B.Paste user)
@@ -37,7 +37,7 @@
   )
 
   (setup
-    (last_trace_width 0.254)
+    (last_trace_width 0.508)
     (user_trace_width 0.381)
     (user_trace_width 0.508)
     (user_trace_width 1.016)
@@ -2764,6 +2764,8 @@
   (segment (start 133.858 120.396) (end 131.572 120.396) (width 1.5) (layer B.Cu) (net 26))
   (segment (start 133.858 119.65) (end 135.144 118.364) (width 1.016) (layer B.Cu) (net 26) (tstamp 559B0FD2))
   (segment (start 133.858 120.396) (end 133.858 119.65) (width 1.016) (layer B.Cu) (net 26))
+  (segment (start 115.062 112.268) (end 118.232 112.268) (width 0.508) (layer B.Cu) (net 27))
+  (segment (start 118.232 112.268) (end 118.298 112.202) (width 0.508) (layer B.Cu) (net 27) (tstamp 56BCD43B))
   (segment (start 118.298 112.202) (end 112.842 112.202) (width 1.5) (layer B.Cu) (net 27))
   (segment (start 108.458 141.478) (end 107.188 142.748) (width 1.5) (layer B.Cu) (net 27))
   (segment (start 112.842 112.202) (end 107.188 117.856) (width 1.5) (layer B.Cu) (net 27))
