@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="D">
   <design>
-    <source>/home/jakub/KiCAD/MicroFLiC_DAC_power_supply_1_1/MicroFLiC_DAC_power_supply_1_1.sch</source>
-    <date>Thu 11 Feb 2016 18:31:56 GMT</date>
+    <source>/home/jakub/KiCAD/MicroFLiC_DAC_power_supply_1_1/MicroFLiC_DAC_power_supply.sch</source>
+    <date>Sun 14 Feb 2016 22:25:42 GMT</date>
     <tool>Eeschema (2015-12-10 BZR 6367)-product</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -10,7 +10,7 @@
         <company/>
         <rev/>
         <date/>
-        <source>MicroFLiC_DAC_power_supply_1_1.sch</source>
+        <source>MicroFLiC_DAC_power_supply.sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
@@ -64,7 +64,7 @@
         <field name="Order Code">1021524</field>
         <field name="Alt. Supplier">Mouser</field>
         <field name="Alt. Order Code">580-NML1209SC</field>
-        <field name="Note">12V in 9V out 2W DC-DC converter</field>
+        <field name="Note">2W 12V to 9V DC-DC converter</field>
       </fields>
       <libsource lib="jakub" part="NMLxxxxSC"/>
       <sheetpath names="/" tstamps="/"/>
@@ -81,7 +81,7 @@
         <field name="Order Code">2362111</field>
         <field name="Alt. Supplier">Mouser</field>
         <field name="Alt. Order Code">81-GRM21BR61E475MA2L</field>
-        <field name="Note">4μ7/25V X5R 0805 ceramic capacitor</field>
+        <field name="Note">4.7μF/25V X5R 0805 ceramic capacitor</field>
       </fields>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
@@ -149,7 +149,7 @@
         <field name="Order Code">1845750</field>
         <field name="Alt. Supplier">Mouser</field>
         <field name="Alt. Order Code">81-GRM219R61H105KA3D</field>
-        <field name="Note">1μ/50V X5R 0805 ceramic capacitor</field>
+        <field name="Note">1μF/50V X5R 0805 ceramic capacitor</field>
       </fields>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
@@ -183,7 +183,7 @@
         <field name="Order Code">2366476</field>
         <field name="Alt. Supplier">Mouser</field>
         <field name="Alt. Order Code">81-NMG1224SC</field>
-        <field name="Note">12V in 24V out 2W DC-DC converter</field>
+        <field name="Note">2W 12V to 24V DC-DC converter</field>
       </fields>
       <libsource lib="jakub" part="NMGxxxxSC"/>
       <sheetpath names="/" tstamps="/"/>
@@ -302,7 +302,7 @@
         <field name="Order Code">2362111</field>
         <field name="Alt. Supplier">Mouser</field>
         <field name="Alt. Order Code">81-GRM21BR61E475MA2L</field>
-        <field name="Note">4μ7/25V X5R 0805 ceramic capacitor</field>
+        <field name="Note">4.7μF/25V X5R 0805 ceramic capacitor</field>
       </fields>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
@@ -319,7 +319,7 @@
         <field name="Order Code">2362111</field>
         <field name="Alt. Supplier">Mouser</field>
         <field name="Alt. Order Code">81-GRM21BR61E475MA2L</field>
-        <field name="Note">4μ7/25V X5R 0805 ceramic capacitor</field>
+        <field name="Note">4.7μF/25V X5R 0805 ceramic capacitor</field>
       </fields>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
@@ -336,7 +336,7 @@
         <field name="Order Code">2362111</field>
         <field name="Alt. Supplier">Mouser</field>
         <field name="Alt. Order Code">81-GRM21BR61E475MA2L</field>
-        <field name="Note">4μ7/25V X5R 0805 ceramic capacitor</field>
+        <field name="Note">4.7μF/25V X5R 0805 ceramic capacitor</field>
       </fields>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
@@ -353,7 +353,7 @@
         <field name="Order Code">2362111</field>
         <field name="Alt. Supplier">Mouser</field>
         <field name="Alt. Order Code">81-GRM21BR61E475MA2L</field>
-        <field name="Note">4μ7/25V X5R 0805 ceramic capacitor</field>
+        <field name="Note">4.7μF/25V X5R 0805 ceramic capacitor</field>
       </fields>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
@@ -370,7 +370,7 @@
         <field name="Order Code">2362111</field>
         <field name="Alt. Supplier">Mouser</field>
         <field name="Alt. Order Code">81-GRM21BR61E475MA2L</field>
-        <field name="Note">4μ7/25V X5R 0805 ceramic capacitor</field>
+        <field name="Note">4.7μF/25V X5R 0805 ceramic capacitor</field>
       </fields>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
@@ -387,7 +387,7 @@
         <field name="Order Code">2362111</field>
         <field name="Alt. Supplier">Mouser</field>
         <field name="Alt. Order Code">81-GRM21BR61E475MA2L</field>
-        <field name="Note">4μ7/25V X5R 0805 ceramic capacitor</field>
+        <field name="Note">4.7μF/25V X5R 0805 ceramic capacitor</field>
       </fields>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
@@ -404,7 +404,7 @@
         <field name="Order Code">2362111</field>
         <field name="Alt. Supplier">Mouser</field>
         <field name="Alt. Order Code">81-GRM21BR61E475MA2L</field>
-        <field name="Note">4μ7/25V X5R 0805 ceramic capacitor</field>
+        <field name="Note">4.7μF/25V X5R 0805 ceramic capacitor</field>
       </fields>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
@@ -421,7 +421,7 @@
         <field name="Order Code">1845750</field>
         <field name="Alt. Supplier">Mouser</field>
         <field name="Alt. Order Code">81-GRM219R61H105KA3D</field>
-        <field name="Note">1μ/50V X5R 0805 ceramic capacitor</field>
+        <field name="Note">1μF/50V X5R 0805 ceramic capacitor</field>
       </fields>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
@@ -488,7 +488,7 @@
         <field name="Order Code">2362111</field>
         <field name="Alt. Supplier">Mouser</field>
         <field name="Alt. Order Code">81-GRM21BR61E475MA2L</field>
-        <field name="Note">4μ7/25V X5R 0805 ceramic capacitor</field>
+        <field name="Note">4.7μF/25V X5R 0805 ceramic capacitor</field>
       </fields>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
@@ -505,7 +505,7 @@
         <field name="Order Code">2362111</field>
         <field name="Alt. Supplier">Mouser</field>
         <field name="Alt. Order Code">81-GRM21BR61E475MA2L</field>
-        <field name="Note">4μ7/25V X5R 0805 ceramic capacitor</field>
+        <field name="Note">4.7μF/25V X5R 0805 ceramic capacitor</field>
       </fields>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
@@ -522,7 +522,7 @@
         <field name="Order Code">2362111</field>
         <field name="Alt. Supplier">Mouser</field>
         <field name="Alt. Order Code">81-GRM21BR61E475MA2L</field>
-        <field name="Note">4μ7/25V X5R 0805 ceramic capacitor</field>
+        <field name="Note">4.7μF/25V X5R 0805 ceramic capacitor</field>
       </fields>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
@@ -539,7 +539,7 @@
         <field name="Order Code">2362111</field>
         <field name="Alt. Supplier">Mouser</field>
         <field name="Alt. Order Code">81-GRM21BR61E475MA2L</field>
-        <field name="Note">4μ7/25V X5R 0805 ceramic capacitor</field>
+        <field name="Note">4.7μF/25V X5R 0805 ceramic capacitor</field>
       </fields>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
@@ -556,7 +556,7 @@
         <field name="Order Code">2362111</field>
         <field name="Alt. Supplier">Mouser</field>
         <field name="Alt. Order Code">81-GRM21BR61E475MA2L</field>
-        <field name="Note">4μ7/25V X5R 0805 ceramic capacitor</field>
+        <field name="Note">4.7μF/25V X5R 0805 ceramic capacitor</field>
       </fields>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
@@ -590,7 +590,7 @@
         <field name="Order Code">1672443</field>
         <field name="Alt. Supplier">Mouser</field>
         <field name="Alt. Order Code">74-TMCMA1E105MTRF</field>
-        <field name="Note">1μ/25V/6.6Ω ESR case A tantalum capacitor</field>
+        <field name="Note">1μF/25V/6.6Ω ESR case A tantalum capacitor</field>
       </fields>
       <libsource lib="device" part="CP"/>
       <sheetpath names="/" tstamps="/"/>
@@ -675,7 +675,7 @@
         <field name="Order Code">1021524</field>
         <field name="Alt. Supplier">Mouser</field>
         <field name="Alt. Order Code">580-NML1209SC</field>
-        <field name="Note">12V in 9V out 2W DC-DC converter</field>
+        <field name="Note">2W 12V to 9V DC-DC converter</field>
       </fields>
       <libsource lib="jakub" part="NMLxxxxSC"/>
       <sheetpath names="/" tstamps="/"/>
@@ -692,7 +692,7 @@
         <field name="Order Code">1021524</field>
         <field name="Alt. Supplier">Mouser</field>
         <field name="Alt. Order Code">580-NML1209SC</field>
-        <field name="Note">12V in 9V out 2W DC-DC converter</field>
+        <field name="Note">2W 12V to 9V DC-DC converter</field>
       </fields>
       <libsource lib="jakub" part="NMLxxxxSC"/>
       <sheetpath names="/" tstamps="/"/>
@@ -709,7 +709,7 @@
         <field name="Order Code">2366476</field>
         <field name="Alt. Supplier">Mouser</field>
         <field name="Alt. Order Code">81-NMG1224SC</field>
-        <field name="Note">12V in 24V out 2W DC-DC converter</field>
+        <field name="Note">2W 12V to 24V DC-DC converter</field>
       </fields>
       <libsource lib="jakub" part="NMGxxxxSC"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1049,7 +1049,7 @@
         <field name="Order Code">1672443</field>
         <field name="Alt. Supplier">Mouser</field>
         <field name="Alt. Order Code">74-TMCMA1E105MTRF</field>
-        <field name="Note">1μ/25V/6.6Ω ESR case A tantalum capacitor</field>
+        <field name="Note">1μF/25V/6.6Ω ESR case A tantalum capacitor</field>
       </fields>
       <libsource lib="device" part="CP"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1066,7 +1066,7 @@
         <field name="Order Code">2497051</field>
         <field name="Alt. Supplier">Mouser</field>
         <field name="Alt. Order Code">581-08056D106MAT2A</field>
-        <field name="Note">10μ/6.3V X5R 0805 ceramic capacitor</field>
+        <field name="Note">10μF/6.3V X5R 0805 ceramic capacitor</field>
       </fields>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1083,7 +1083,7 @@
         <field name="Order Code">2497051</field>
         <field name="Alt. Supplier">Mouser</field>
         <field name="Alt. Order Code">581-08056D106MAT2A</field>
-        <field name="Note">10μ/6.3V X5R 0805 ceramic capacitor</field>
+        <field name="Note">10μF/6.3V X5R 0805 ceramic capacitor</field>
       </fields>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1168,7 +1168,7 @@
         <field name="Order Code">2497051</field>
         <field name="Alt. Supplier">Mouser</field>
         <field name="Alt. Order Code">581-08056D106MAT2A</field>
-        <field name="Note">10μ/6.3V X5R 0805 ceramic capacitor</field>
+        <field name="Note">10μF/6.3V X5R 0805 ceramic capacitor</field>
       </fields>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1185,7 +1185,7 @@
         <field name="Order Code">2497051</field>
         <field name="Alt. Supplier">Mouser</field>
         <field name="Alt. Order Code">581-08056D106MAT2A</field>
-        <field name="Note">10μ/6.3V X5R 0805 ceramic capacitor</field>
+        <field name="Note">10μF/6.3V X5R 0805 ceramic capacitor</field>
       </fields>
       <libsource lib="device" part="C"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1430,11 +1430,11 @@
     <library logical="conn">
       <uri>/usr/local/share/kicad/library/conn.lib</uri>
     </library>
-    <library logical="jakub">
-      <uri>/home/jakub/KiCAD/share/library/contrib/jakub/jakub.lib</uri>
-    </library>
     <library logical="regul">
       <uri>/usr/local/share/kicad/library/regul.lib</uri>
+    </library>
+    <library logical="jakub">
+      <uri>/home/jakub/KiCAD/share/library/contrib/jakub/jakub.lib</uri>
     </library>
   </libraries>
   <nets>

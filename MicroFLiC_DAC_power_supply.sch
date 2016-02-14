@@ -30,7 +30,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:jakub
-LIBS:MicroFLiC_DAC_power_supply_1_1-cache
+LIBS:MicroFLiC_DAC_power_supply-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 8268 11693 portrait
@@ -176,7 +176,7 @@ F 7 "Farnell" H 2500 1050 60  0001 C CNN "Supplier"
 F 8 "1021524" H 2500 1050 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 2500 1050 60  0001 C CNN "Alt. Supplier"
 F 10 "580-NML1209SC" H 2500 1050 60  0001 C CNN "Alt. Order Code"
-F 11 "12V in 9V out 2W DC-DC converter" H 2500 1050 60  0001 C CNN "Note"
+F 11 "2W 12V to 9V DC-DC converter" H 2500 1050 60  0001 C CNN "Note"
 	1    2500 1050
 	1    0    0    -1  
 $EndComp
@@ -197,7 +197,7 @@ F 7 "Farnell" H 700 1200 60  0001 C CNN "Supplier"
 F 8 "2362111" H 700 1200 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 700 1200 60  0001 C CNN "Alt. Supplier"
 F 10 "81-GRM21BR61E475MA2L" H 700 1200 60  0001 C CNN "Alt. Order Code"
-F 11 "4μ7/25V X5R 0805 ceramic capacitor" H 700 1200 60  0001 C CNN "Note"
+F 11 "4.7μF/25V X5R 0805 ceramic capacitor" H 700 1200 60  0001 C CNN "Note"
 	1    700  1200
 	1    0    0    -1  
 $EndComp
@@ -349,7 +349,7 @@ F 7 "Farnell" H 4200 6150 60  0001 C CNN "Supplier"
 F 8 "1845750" H 4200 6150 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 4200 6150 60  0001 C CNN "Alt. Supplier"
 F 10 "81-GRM219R61H105KA3D" H 4200 6150 60  0001 C CNN "Alt. Order Code"
-F 11 "1μ/50V X5R 0805 ceramic capacitor" H 4200 6150 60  0001 C CNN "Note"
+F 11 "1μF/50V X5R 0805 ceramic capacitor" H 4200 6150 60  0001 C CNN "Note"
 	1    4200 6150
 	1    0    0    -1  
 $EndComp
@@ -430,7 +430,7 @@ F 7 "Farnell" H 2500 5900 60  0001 C CNN "Supplier"
 F 8 "2366476" H 2500 5900 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 2500 5900 60  0001 C CNN "Alt. Supplier"
 F 10 "81-NMG1224SC" H 2500 5900 60  0001 C CNN "Alt. Order Code"
-F 11 "12V in 24V out 2W DC-DC converter" H 2500 5900 60  0001 C CNN "Note"
+F 11 "2W 12V to 24V DC-DC converter" H 2500 5900 60  0001 C CNN "Note"
 	1    2500 5900
 	1    0    0    -1  
 $EndComp
@@ -621,7 +621,7 @@ F 7 "Farnell" H 700 2650 60  0001 C CNN "Supplier"
 F 8 "2362111" H 700 2650 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 700 2650 60  0001 C CNN "Alt. Supplier"
 F 10 "81-GRM21BR61E475MA2L" H 700 2650 60  0001 C CNN "Alt. Order Code"
-F 11 "4μ7/25V X5R 0805 ceramic capacitor" H 700 2650 60  0001 C CNN "Note"
+F 11 "4.7μF/25V X5R 0805 ceramic capacitor" H 700 2650 60  0001 C CNN "Note"
 	1    700  2650
 	1    0    0    -1  
 $EndComp
@@ -640,7 +640,7 @@ F 7 "Farnell" H 700 4450 60  0001 C CNN "Supplier"
 F 8 "2362111" H 700 4450 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 700 4450 60  0001 C CNN "Alt. Supplier"
 F 10 "81-GRM21BR61E475MA2L" H 700 4450 60  0001 C CNN "Alt. Order Code"
-F 11 "4μ7/25V X5R 0805 ceramic capacitor" H 700 4450 60  0001 C CNN "Note"
+F 11 "4.7μF/25V X5R 0805 ceramic capacitor" H 700 4450 60  0001 C CNN "Note"
 	1    700  4450
 	1    0    0    -1  
 $EndComp
@@ -659,7 +659,7 @@ F 7 "Farnell" H 700 6050 60  0001 C CNN "Supplier"
 F 8 "2362111" H 700 6050 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 700 6050 60  0001 C CNN "Alt. Supplier"
 F 10 "81-GRM21BR61E475MA2L" H 700 6050 60  0001 C CNN "Alt. Order Code"
-F 11 "4μ7/25V X5R 0805 ceramic capacitor" H 700 6050 60  0001 C CNN "Note"
+F 11 "4.7μF/25V X5R 0805 ceramic capacitor" H 700 6050 60  0001 C CNN "Note"
 	1    700  6050
 	1    0    0    -1  
 $EndComp
@@ -678,7 +678,7 @@ F 7 "Farnell" H 700 7850 60  0001 C CNN "Supplier"
 F 8 "2362111" H 700 7850 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 700 7850 60  0001 C CNN "Alt. Supplier"
 F 10 "81-GRM21BR61E475MA2L" H 700 7850 60  0001 C CNN "Alt. Order Code"
-F 11 "4μ7/25V X5R 0805 ceramic capacitor" H 700 7850 60  0001 C CNN "Note"
+F 11 "4.7μF/25V X5R 0805 ceramic capacitor" H 700 7850 60  0001 C CNN "Note"
 	1    700  7850
 	1    0    0    -1  
 $EndComp
@@ -697,7 +697,7 @@ F 7 "Farnell" H 4200 4550 60  0001 C CNN "Supplier"
 F 8 "2362111" H 4200 4550 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 4200 4550 60  0001 C CNN "Alt. Supplier"
 F 10 "81-GRM21BR61E475MA2L" H 4200 4550 60  0001 C CNN "Alt. Order Code"
-F 11 "4μ7/25V X5R 0805 ceramic capacitor" H 4200 4550 60  0001 C CNN "Note"
+F 11 "4.7μF/25V X5R 0805 ceramic capacitor" H 4200 4550 60  0001 C CNN "Note"
 	1    4200 4550
 	1    0    0    -1  
 $EndComp
@@ -716,7 +716,7 @@ F 7 "Farnell" H 4200 2750 60  0001 C CNN "Supplier"
 F 8 "2362111" H 4200 2750 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 4200 2750 60  0001 C CNN "Alt. Supplier"
 F 10 "81-GRM21BR61E475MA2L" H 4200 2750 60  0001 C CNN "Alt. Order Code"
-F 11 "4μ7/25V X5R 0805 ceramic capacitor" H 4200 2750 60  0001 C CNN "Note"
+F 11 "4.7μF/25V X5R 0805 ceramic capacitor" H 4200 2750 60  0001 C CNN "Note"
 	1    4200 2750
 	1    0    0    -1  
 $EndComp
@@ -735,7 +735,7 @@ F 7 "Farnell" H 4200 1300 60  0001 C CNN "Supplier"
 F 8 "2362111" H 4200 1300 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 4200 1300 60  0001 C CNN "Alt. Supplier"
 F 10 "81-GRM21BR61E475MA2L" H 4200 1300 60  0001 C CNN "Alt. Order Code"
-F 11 "4μ7/25V X5R 0805 ceramic capacitor" H 4200 1300 60  0001 C CNN "Note"
+F 11 "4.7μF/25V X5R 0805 ceramic capacitor" H 4200 1300 60  0001 C CNN "Note"
 	1    4200 1300
 	1    0    0    -1  
 $EndComp
@@ -754,7 +754,7 @@ F 7 "Farnell" H 4200 7950 60  0001 C CNN "Supplier"
 F 8 "1845750" H 4200 7950 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 4200 7950 60  0001 C CNN "Alt. Supplier"
 F 10 "81-GRM219R61H105KA3D" H 4200 7950 60  0001 C CNN "Alt. Order Code"
-F 11 "1μ/50V X5R 0805 ceramic capacitor" H 4200 7950 60  0001 C CNN "Note"
+F 11 "1μF/50V X5R 0805 ceramic capacitor" H 4200 7950 60  0001 C CNN "Note"
 	1    4200 7950
 	1    0    0    -1  
 $EndComp
@@ -829,7 +829,7 @@ F 7 "Farnell" H 1500 1200 60  0001 C CNN "Supplier"
 F 8 "2362111" H 1500 1200 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 1500 1200 60  0001 C CNN "Alt. Supplier"
 F 10 "81-GRM21BR61E475MA2L" H 1500 1200 60  0001 C CNN "Alt. Order Code"
-F 11 "4μ7/25V X5R 0805 ceramic capacitor" H 1500 1200 60  0001 C CNN "Note"
+F 11 "4.7μF/25V X5R 0805 ceramic capacitor" H 1500 1200 60  0001 C CNN "Note"
 	1    1500 1200
 	1    0    0    -1  
 $EndComp
@@ -848,7 +848,7 @@ F 7 "Farnell" H 1500 2650 60  0001 C CNN "Supplier"
 F 8 "2362111" H 1500 2650 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 1500 2650 60  0001 C CNN "Alt. Supplier"
 F 10 "81-GRM21BR61E475MA2L" H 1500 2650 60  0001 C CNN "Alt. Order Code"
-F 11 "4μ7/25V X5R 0805 ceramic capacitor" H 1500 2650 60  0001 C CNN "Note"
+F 11 "4.7μF/25V X5R 0805 ceramic capacitor" H 1500 2650 60  0001 C CNN "Note"
 	1    1500 2650
 	1    0    0    -1  
 $EndComp
@@ -867,7 +867,7 @@ F 7 "Farnell" H 1500 4450 60  0001 C CNN "Supplier"
 F 8 "2362111" H 1500 4450 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 1500 4450 60  0001 C CNN "Alt. Supplier"
 F 10 "81-GRM21BR61E475MA2L" H 1500 4450 60  0001 C CNN "Alt. Order Code"
-F 11 "4μ7/25V X5R 0805 ceramic capacitor" H 1500 4450 60  0001 C CNN "Note"
+F 11 "4.7μF/25V X5R 0805 ceramic capacitor" H 1500 4450 60  0001 C CNN "Note"
 	1    1500 4450
 	1    0    0    -1  
 $EndComp
@@ -886,7 +886,7 @@ F 7 "Farnell" H 1500 6050 60  0001 C CNN "Supplier"
 F 8 "2362111" H 1500 6050 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 1500 6050 60  0001 C CNN "Alt. Supplier"
 F 10 "81-GRM21BR61E475MA2L" H 1500 6050 60  0001 C CNN "Alt. Order Code"
-F 11 "4μ7/25V X5R 0805 ceramic capacitor" H 1500 6050 60  0001 C CNN "Note"
+F 11 "4.7μF/25V X5R 0805 ceramic capacitor" H 1500 6050 60  0001 C CNN "Note"
 	1    1500 6050
 	1    0    0    -1  
 $EndComp
@@ -905,7 +905,7 @@ F 7 "Farnell" H 1500 7850 60  0001 C CNN "Supplier"
 F 8 "2362111" H 1500 7850 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 1500 7850 60  0001 C CNN "Alt. Supplier"
 F 10 "81-GRM21BR61E475MA2L" H 1500 7850 60  0001 C CNN "Alt. Order Code"
-F 11 "4μ7/25V X5R 0805 ceramic capacitor" H 1500 7850 60  0001 C CNN "Note"
+F 11 "4.7μF/25V X5R 0805 ceramic capacitor" H 1500 7850 60  0001 C CNN "Note"
 	1    1500 7850
 	1    0    0    -1  
 $EndComp
@@ -943,7 +943,7 @@ F 7 "Farnell" H 6400 6350 60  0001 C CNN "Supplier"
 F 8 "1672443" H 6400 6350 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 6400 6350 60  0001 C CNN "Alt. Supplier"
 F 10 "74-TMCMA1E105MTRF" H 6400 6350 60  0001 C CNN "Alt. Order Code"
-F 11 "1μ/25V/6.6Ω ESR case A tantalum capacitor" H 6400 6350 60  0001 C CNN "Note"
+F 11 "1μF/25V/6.6Ω ESR case A tantalum capacitor" H 6400 6350 60  0001 C CNN "Note"
 	1    6400 6350
 	1    0    0    -1  
 $EndComp
@@ -1038,7 +1038,7 @@ F 7 "Farnell" H 2500 2500 60  0001 C CNN "Supplier"
 F 8 "1021524" H 2500 2500 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 2500 2500 60  0001 C CNN "Alt. Supplier"
 F 10 "580-NML1209SC" H 2500 2500 60  0001 C CNN "Alt. Order Code"
-F 11 "12V in 9V out 2W DC-DC converter" H 2500 2500 60  0001 C CNN "Note"
+F 11 "2W 12V to 9V DC-DC converter" H 2500 2500 60  0001 C CNN "Note"
 	1    2500 2500
 	1    0    0    -1  
 $EndComp
@@ -1057,7 +1057,7 @@ F 7 "Farnell" H 2500 4300 60  0001 C CNN "Supplier"
 F 8 "1021524" H 2500 4300 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 2500 4300 60  0001 C CNN "Alt. Supplier"
 F 10 "580-NML1209SC" H 2500 4300 60  0001 C CNN "Alt. Order Code"
-F 11 "12V in 9V out 2W DC-DC converter" H 2500 4300 60  0001 C CNN "Note"
+F 11 "2W 12V to 9V DC-DC converter" H 2500 4300 60  0001 C CNN "Note"
 	1    2500 4300
 	1    0    0    -1  
 $EndComp
@@ -1076,7 +1076,7 @@ F 7 "Farnell" H 2500 7700 60  0001 C CNN "Supplier"
 F 8 "2366476" H 2500 7700 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 2500 7700 60  0001 C CNN "Alt. Supplier"
 F 10 "81-NMG1224SC" H 2500 7700 60  0001 C CNN "Alt. Order Code"
-F 11 "12V in 24V out 2W DC-DC converter" H 2500 7700 60  0001 C CNN "Note"
+F 11 "2W 12V to 24V DC-DC converter" H 2500 7700 60  0001 C CNN "Note"
 	1    2500 7700
 	1    0    0    -1  
 $EndComp
@@ -1456,7 +1456,7 @@ F 7 "Farnell" H 6400 8150 60  0001 C CNN "Supplier"
 F 8 "1672443" H 6400 8150 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 6400 8150 60  0001 C CNN "Alt. Supplier"
 F 10 "74-TMCMA1E105MTRF" H 6400 8150 60  0001 C CNN "Alt. Order Code"
-F 11 "1μ/25V/6.6Ω ESR case A tantalum capacitor" H 6400 8150 60  0001 C CNN "Note"
+F 11 "1μF/25V/6.6Ω ESR case A tantalum capacitor" H 6400 8150 60  0001 C CNN "Note"
 	1    6400 8150
 	1    0    0    -1  
 $EndComp
@@ -1803,7 +1803,7 @@ F 7 "Farnell" H 5850 8350 60  0001 C CNN "Supplier"
 F 8 "2497051" H 5850 8350 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 5850 8350 60  0001 C CNN "Alt. Supplier"
 F 10 "581-08056D106MAT2A" H 5850 8350 60  0001 C CNN "Alt. Order Code"
-F 11 "10μ/6.3V X5R 0805 ceramic capacitor" H 5850 8350 60  0001 C CNN "Note"
+F 11 "10μF/6.3V X5R 0805 ceramic capacitor" H 5850 8350 60  0001 C CNN "Note"
 	1    5850 8350
 	1    0    0    -1  
 $EndComp
@@ -1838,7 +1838,7 @@ F 7 "Farnell" H 5850 6650 60  0001 C CNN "Supplier"
 F 8 "2497051" H 5850 6650 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 5850 6650 60  0001 C CNN "Alt. Supplier"
 F 10 "581-08056D106MAT2A" H 5850 6650 60  0001 C CNN "Alt. Order Code"
-F 11 "10μ/6.3V X5R 0805 ceramic capacitor" H 5850 6650 60  0001 C CNN "Note"
+F 11 "10μF/6.3V X5R 0805 ceramic capacitor" H 5850 6650 60  0001 C CNN "Note"
 	1    5850 6650
 	1    0    0    -1  
 $EndComp
@@ -1958,7 +1958,7 @@ F 7 "Farnell" H 5850 4950 60  0001 C CNN "Supplier"
 F 8 "2497051" H 5850 4950 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 5850 4950 60  0001 C CNN "Alt. Supplier"
 F 10 "581-08056D106MAT2A" H 5850 4950 60  0001 C CNN "Alt. Order Code"
-F 11 "10μ/6.3V X5R 0805 ceramic capacitor" H 5850 4950 60  0001 C CNN "Note"
+F 11 "10μF/6.3V X5R 0805 ceramic capacitor" H 5850 4950 60  0001 C CNN "Note"
 	1    5850 4950
 	1    0    0    -1  
 $EndComp
@@ -1989,7 +1989,7 @@ F 7 "Farnell" H 5850 3250 60  0001 C CNN "Supplier"
 F 8 "2497051" H 5850 3250 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 5850 3250 60  0001 C CNN "Alt. Supplier"
 F 10 "581-08056D106MAT2A" H 5850 3250 60  0001 C CNN "Alt. Order Code"
-F 11 "10μ/6.3V X5R 0805 ceramic capacitor" H 5850 3250 60  0001 C CNN "Note"
+F 11 "10μF/6.3V X5R 0805 ceramic capacitor" H 5850 3250 60  0001 C CNN "Note"
 	1    5850 3250
 	1    0    0    -1  
 $EndComp
