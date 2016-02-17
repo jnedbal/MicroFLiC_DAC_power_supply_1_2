@@ -176,7 +176,7 @@ F 7 "Farnell" H 2500 1050 60  0001 C CNN "Supplier"
 F 8 "1021524" H 2500 1050 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 2500 1050 60  0001 C CNN "Alt. Supplier"
 F 10 "580-NML1209SC" H 2500 1050 60  0001 C CNN "Alt. Order Code"
-F 11 "12V in 9V out 2W DC-DC converter" H 2500 1050 60  0001 C CNN "Note"
+F 11 "2W 12V to 9V DC-DC converter" H 2500 1050 60  0001 C CNN "Note"
 	1    2500 1050
 	1    0    0    -1  
 $EndComp
@@ -430,7 +430,7 @@ F 7 "Farnell" H 2500 5900 60  0001 C CNN "Supplier"
 F 8 "2366476" H 2500 5900 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 2500 5900 60  0001 C CNN "Alt. Supplier"
 F 10 "81-NMG1224SC" H 2500 5900 60  0001 C CNN "Alt. Order Code"
-F 11 "12V in 24V out 2W DC-DC converter" H 2500 5900 60  0001 C CNN "Note"
+F 11 "2W 12V to 24V DC-DC converter" H 2500 5900 60  0001 C CNN "Note"
 	1    2500 5900
 	1    0    0    -1  
 $EndComp
@@ -1038,7 +1038,7 @@ F 7 "Farnell" H 2500 2500 60  0001 C CNN "Supplier"
 F 8 "1021524" H 2500 2500 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 2500 2500 60  0001 C CNN "Alt. Supplier"
 F 10 "580-NML1209SC" H 2500 2500 60  0001 C CNN "Alt. Order Code"
-F 11 "12V in 9V out 2W DC-DC converter" H 2500 2500 60  0001 C CNN "Note"
+F 11 "2W 12V to 9V DC-DC converter" H 2500 2500 60  0001 C CNN "Note"
 	1    2500 2500
 	1    0    0    -1  
 $EndComp
@@ -1057,7 +1057,7 @@ F 7 "Farnell" H 2500 4300 60  0001 C CNN "Supplier"
 F 8 "1021524" H 2500 4300 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 2500 4300 60  0001 C CNN "Alt. Supplier"
 F 10 "580-NML1209SC" H 2500 4300 60  0001 C CNN "Alt. Order Code"
-F 11 "12V in 9V out 2W DC-DC converter" H 2500 4300 60  0001 C CNN "Note"
+F 11 "2W 12V to 9V DC-DC converter" H 2500 4300 60  0001 C CNN "Note"
 	1    2500 4300
 	1    0    0    -1  
 $EndComp
@@ -1076,7 +1076,7 @@ F 7 "Farnell" H 2500 7700 60  0001 C CNN "Supplier"
 F 8 "2366476" H 2500 7700 60  0001 C CNN "Order Code"
 F 9 "Mouser" H 2500 7700 60  0001 C CNN "Alt. Supplier"
 F 10 "81-NMG1224SC" H 2500 7700 60  0001 C CNN "Alt. Order Code"
-F 11 "12V in 24V out 2W DC-DC converter" H 2500 7700 60  0001 C CNN "Note"
+F 11 "2W 12V to 24V DC-DC converter" H 2500 7700 60  0001 C CNN "Note"
 	1    2500 7700
 	1    0    0    -1  
 $EndComp
