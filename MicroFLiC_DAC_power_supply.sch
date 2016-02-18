@@ -548,21 +548,21 @@ F 11 "2x4 ESQ series elevated socket strip" H 5050 9150 60  0001 C CNN "Note"
 	1    5050 9150
 	1    0    0    -1  
 $EndComp
-Text Label 4350 9000 0    60   ~ 0
-5V_GND
-Text Label 4350 9100 0    60   ~ 0
--7.5V
-Text Label 4350 9200 0    60   ~ 0
-7.5V_GND
-Text Label 4350 9300 0    60   ~ 0
-+7.5V
 Text Label 5350 9000 0    60   ~ 0
-+5V
+5V_GND
 Text Label 5350 9100 0    60   ~ 0
--19V
+-7.5V
 Text Label 5350 9200 0    60   ~ 0
-19V_GND
+7.5V_GND
 Text Label 5350 9300 0    60   ~ 0
++7.5V
+Text Label 4350 9000 0    60   ~ 0
++5V
+Text Label 4350 9100 0    60   ~ 0
+-19V
+Text Label 4350 9200 0    60   ~ 0
+19V_GND
+Text Label 4350 9300 0    60   ~ 0
 +19V
 Text Label 5650 8100 2    60   ~ 0
 FB_E
@@ -1637,20 +1637,6 @@ Wire Wire Line
 	3100 9100 3100 9000
 Connection ~ 3100 9100
 Wire Wire Line
-	4800 9000 4300 9000
-Wire Wire Line
-	4800 9100 4300 9100
-Wire Wire Line
-	4800 9200 4300 9200
-Wire Wire Line
-	4800 9300 4300 9300
-Wire Wire Line
-	5400 3650 5400 3400
-Connection ~ 5400 3650
-Wire Wire Line
-	6400 3100 6400 4600
-Connection ~ 6400 3650
-Wire Wire Line
 	5800 9000 5300 9000
 Wire Wire Line
 	5800 9100 5300 9100
@@ -1658,6 +1644,20 @@ Wire Wire Line
 	5800 9200 5300 9200
 Wire Wire Line
 	5800 9300 5300 9300
+Wire Wire Line
+	5400 3650 5400 3400
+Connection ~ 5400 3650
+Wire Wire Line
+	6400 3100 6400 4600
+Connection ~ 6400 3650
+Wire Wire Line
+	4800 9000 4300 9000
+Wire Wire Line
+	4800 9100 4300 9100
+Wire Wire Line
+	4800 9200 4300 9200
+Wire Wire Line
+	4800 9300 4300 9300
 Wire Wire Line
 	3200 2650 3200 3050
 Connection ~ 4200 3050
