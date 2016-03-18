@@ -1,12 +1,12 @@
-(kicad_pcb (version 4) (host pcbnew 4.0.1-3.201512221402+6198~38~ubuntu14.04.1-stable)
+(kicad_pcb (version 4) (host pcbnew 4.0.2-4+6225~38~ubuntu14.04.1-stable)
 
   (general
     (links 130)
     (no_connects 0)
-    (area 99.607 100.025999 150.127 151.957)
+    (area 99.607 100.025999 151.831287 151.957)
     (thickness 1.6)
     (drawings 38)
-    (tracks 451)
+    (tracks 446)
     (zones 0)
     (modules 69)
     (nets 30)
@@ -37,7 +37,7 @@
   )
 
   (setup
-    (last_trace_width 0.254)
+    (last_trace_width 1.5)
     (user_trace_width 0.381)
     (user_trace_width 0.508)
     (user_trace_width 1.016)
@@ -1597,7 +1597,7 @@
     (fp_text reference P1 (at -2.54 0 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value Socket_1x2 (at 0 3.1) (layer B.Fab) hide
+    (fp_text value "1x2 socket strip" (at 0 3.1) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start -1.55 -1.55) (end 0 -1.55) (layer B.SilkS) (width 0.15))
@@ -1630,7 +1630,7 @@
     (fp_text reference P3 (at -2.54 -1.27 360) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value Socket_2x4 (at 0 3.1 270) (layer B.Fab) hide
+    (fp_text value "2x4 socket strip" (at 0 3.1 270) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start -1.75 1.75) (end -1.75 -4.3) (layer B.CrtYd) (width 0.05))
@@ -1676,7 +1676,7 @@
     (fp_text reference P2 (at 0 -2.794 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value Header_1x2 (at 0 -3.1 90) (layer F.Fab) hide
+    (fp_text value "1x2 header strip" (at 0 -3.1 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.27 1.27) (end 1.27 3.81) (layer F.SilkS) (width 0.15))
@@ -2552,6 +2552,10 @@
   (segment (start 114.3 142.24) (end 117.348 145.288) (width 1.5) (layer F.Cu) (net 8) (tstamp 559AE9D7))
   (segment (start 110.744 142.24) (end 109.728 143.256) (width 1.5) (layer F.Cu) (net 8) (tstamp 559AEAB5))
   (segment (start 109.728 143.256) (end 109.728 143.978) (width 1.5) (layer F.Cu) (net 8) (tstamp 559AEAB6))
+  (segment (start 109.728 125.69) (end 109.728 125.222) (width 1.5) (layer F.Cu) (net 9) (status C00000))
+  (segment (start 109.728 125.222) (end 110.998 123.952) (width 1.5) (layer F.Cu) (net 9) (tstamp 56E2A9EC) (status 400000))
+  (segment (start 110.998 123.952) (end 114.3 123.952) (width 1.5) (layer F.Cu) (net 9) (tstamp 56E2A9F5))
+  (segment (start 114.3 123.952) (end 117.348 127) (width 1.5) (layer F.Cu) (net 9) (tstamp 56E2A9F7))
   (segment (start 116.586 127.762) (end 117.348 127) (width 1.5) (layer F.Cu) (net 9))
   (segment (start 111.99001 143.366392) (end 111.99001 132.35799) (width 1.5) (layer B.Cu) (net 9))
   (segment (start 111.99001 132.35799) (end 116.586 127.762) (width 1.5) (layer B.Cu) (net 9))
@@ -2560,15 +2564,6 @@
   (segment (start 107.528402 147.828) (end 111.99001 143.366392) (width 1.5) (layer B.Cu) (net 9))
   (segment (start 119.126 127) (end 120.97 127) (width 1.5) (layer F.Cu) (net 9))
   (segment (start 119.126 127) (end 117.348 127) (width 1.5) (layer F.Cu) (net 9))
-  (segment (start 117.348 127) (end 114.3 123.952) (width 1.5) (layer F.Cu) (net 9) (tstamp 559AEB9E))
-  (segment (start 114.3 123.952) (end 110.744 123.952) (width 1.5) (layer F.Cu) (net 9) (tstamp 559AEB9F))
-  (segment (start 110.744 123.952) (end 109.982 124.714) (width 1.5) (layer F.Cu) (net 9) (tstamp 559AEBA0))
-  (segment (start 109.982 124.714) (end 109.982 125.436) (width 1.5) (layer F.Cu) (net 9))
-  (segment (start 108.498 125.69) (end 109.006 125.69) (width 1.5) (layer F.Cu) (net 9))
-  (segment (start 109.006 125.69) (end 109.982 124.714) (width 1.5) (layer F.Cu) (net 9) (tstamp 559D9CC3))
-  (segment (start 109.982 125.436) (end 109.728 125.69) (width 1.5) (layer F.Cu) (net 9) (tstamp 559D9CBF))
-  (segment (start 108.498 125.69) (end 109.728 125.69) (width 1.5) (layer F.Cu) (net 9) (tstamp 559D9CBA))
-  (segment (start 109.982 124.714) (end 109.728 124.968) (width 1.5) (layer F.Cu) (net 9) (tstamp 559D9CBD))
   (segment (start 120.97 127) (end 121.478 126.492) (width 1.5) (layer F.Cu) (net 9) (tstamp 559E2869))
   (segment (start 128.778 143.256) (end 124.589 143.256) (width 1.5) (layer F.Cu) (net 10) (tstamp 559D9391))
   (segment (start 129.286 142.748) (end 128.778 143.256) (width 1.5) (layer F.Cu) (net 10))

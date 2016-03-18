@@ -2,8 +2,8 @@
 <export version="D">
   <design>
     <source>/home/jakub/KiCAD/MicroFLiC_DAC_power_supply_1_2/MicroFLiC_DAC_power_supply.sch</source>
-    <date>Fri 26 Feb 2016 22:53:11 GMT</date>
-    <tool>Eeschema (2015-12-10 BZR 6367)-product</tool>
+    <date>Fri 18 Mar 2016 20:02:34 GMT</date>
+    <tool>Eeschema 4.0.2-4+6225~38~ubuntu14.04.1-stable</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
@@ -1057,7 +1057,7 @@
     </comp>
     <comp ref="D6">
       <value>1N4148</value>
-      <footprint>Diodes_SMD:SOD-323</footprint>
+      <footprint>jakub:SOD-323</footprint>
       <fields>
         <field name="Part Number">1N4148WS</field>
         <field name="Manufacturer">Multicomp</field>
@@ -1074,7 +1074,7 @@
     </comp>
     <comp ref="D8">
       <value>1N4148</value>
-      <footprint>Diodes_SMD:SOD-323</footprint>
+      <footprint>jakub:SOD-323</footprint>
       <fields>
         <field name="Part Number">1N4148WS</field>
         <field name="Manufacturer">Multicomp</field>
@@ -1091,7 +1091,7 @@
     </comp>
     <comp ref="D7">
       <value>1N4148</value>
-      <footprint>Diodes_SMD:SOD-323</footprint>
+      <footprint>jakub:SOD-323</footprint>
       <fields>
         <field name="Part Number">1N4148WS</field>
         <field name="Manufacturer">Multicomp</field>
@@ -1108,7 +1108,7 @@
     </comp>
     <comp ref="D9">
       <value>1N4148</value>
-      <footprint>Diodes_SMD:SOD-323</footprint>
+      <footprint>jakub:SOD-323</footprint>
       <fields>
         <field name="Part Number">1N4148WS</field>
         <field name="Manufacturer">Multicomp</field>
@@ -1424,14 +1424,14 @@
     </libpart>
   </libparts>
   <libraries>
-    <library logical="device">
-      <uri>/usr/local/share/kicad/library/device.lib</uri>
+    <library logical="regul">
+      <uri>/usr/share/kicad/library/regul.lib</uri>
     </library>
     <library logical="conn">
-      <uri>/usr/local/share/kicad/library/conn.lib</uri>
+      <uri>/usr/share/kicad/library/conn.lib</uri>
     </library>
-    <library logical="regul">
-      <uri>/usr/local/share/kicad/library/regul.lib</uri>
+    <library logical="device">
+      <uri>/usr/share/kicad/library/device.lib</uri>
     </library>
     <library logical="jakub">
       <uri>/home/jakub/KiCAD/share/library/contrib/jakub/jakub.lib</uri>

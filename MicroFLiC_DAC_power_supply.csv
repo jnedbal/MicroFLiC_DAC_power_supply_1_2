@@ -6,7 +6,7 @@ C25 C26 C27 ,3,10u/10V,Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Reflow,,TA
 C28 C29 ,2,1u/25V,Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Reflow,,TRJA105K025RRJ,AVX,case A,Farnell,1672443,Mouser,74-TMCMA1E105MTRF,1μF/25V/6.6Ω ESR case A tantalum capacitor
 D1 D2 D3 ,3,TDZ10J,jakub:SOD-323_Zener,,TDZ10J,NXP Semiconductors,SOD-323,Farnell,2069495,Mouser,771-TDZ10J115,10V SOD-323 Zener diode
 D4 D5 ,2,TDZ27J,jakub:SOD-323_Zener,,TDZ27J,NXP Semiconductors,SOD-323,Farnell,2069505,Mouser,771-TDZ27J115,27V SOD-323 Zener diode
-D6 D7 D8 D9 ,4,1N4148,Diodes_SMD:SOD-323,,1N4148WS,Multicomp,SOD-323,Farnell,1466524,Mouser,512-1N4148WS,Small signal SOD-323 diode
+D6 D7 D8 D9 ,4,1N4148,jakub:SOD-323,,1N4148WS,Multicomp,SOD-323,Farnell,1466524,Mouser,512-1N4148WS,Small signal SOD-323 diode
 DC1 DC2 DC3 ,3,NML1209SC,jakub:MurataNML,,NML1209SC,Murata,SIP-4,Farnell,1021524,Mouser,580-NML1209SC,2W 12V to 9V DC-DC converter
 DC4 DC5 ,2,NMG1224SC,jakub:MurataNMG,,NMG1224SC,Murata,SIP-7,Farnell,2366476,Mouser,81-NMG1224SC,2W 12V to 24V DC-DC converter
 L1 L2 L3 L4 L5 ,5,10uH,jakub:murata8200coil,,7440329100,Wurth Elektronik,1210,Farnell,2082513,Mouser,710-7440329100,10μH/0.45A SMD coil
